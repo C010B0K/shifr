@@ -5,9 +5,7 @@ import Crypto.Aes256Class;
 import javax.crypto.Cipher;
 import java.security.SecureRandom;
 
-/**
- * Created by administrator on 16.03.2018.
- */
+
 public class Main {
     public static void main(String[] args)  {
         Aes256Class aes256 = new Aes256Class();
